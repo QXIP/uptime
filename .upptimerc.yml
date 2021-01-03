@@ -4,7 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: QXIP
+  - name: QXIP.NET
     url: https://qxip.net
   - name: HEPIC.TEL
     url: https://hepic.tel
@@ -26,7 +26,7 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://avatars0.githubusercontent.com/u/956313?s=400&u=ff56817fc3046bc462d1b63cd084ed42e07328ab&v=4
   name: QXIP Uptime
-  introTitle: "**Upptime** monitor and status page for QXIP Services."
+  introTitle: "**QXIP Upptime**"
   introMessage: Having issues with an unlisted QXIP service? Please open a support ticket.
   navbar:
     - title: Status
