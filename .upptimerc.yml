@@ -31,8 +31,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: QXIP
+      href: https://github.com/qxip
+    - title: SIPCAPTURE
+      href: https://github.com/sipcapture
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
