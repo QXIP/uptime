@@ -4,7 +4,7 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: QXIP.NET
+  - name: QXIP
     url: https://qxip.net
   - name: HEPIC.TEL
     url: https://hepic.tel
