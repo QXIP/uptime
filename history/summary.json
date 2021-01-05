@@ -4,18 +4,20 @@
     "url": "https://qxip.net",
     "icon": "https://favicons.githubusercontent.com/qxip.net",
     "slug": "qxip-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 904,
     "timeDay": 928,
     "timeWeek": 904,
     "timeMonth": 904,
     "timeYear": 904,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   },
   {
     "name": "HEPIC.TEL",
@@ -59,13 +61,13 @@
     "icon": "https://favicons.githubusercontent.com/helpdesk.qxip.net",
     "slug": "helpdesk",
     "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.03%",
+    "uptime": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 677,
-    "timeDay": 493,
+    "timeDay": 403,
     "timeWeek": 677,
     "timeMonth": 677,
     "timeYear": 677,
@@ -78,9 +80,9 @@
     "url": "$DEV3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +91,9 @@
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   },
   {
     "name": "DEV7",
@@ -108,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-05": 69,
+      "2021-01-05": 936,
       "2021-01-04": 1440,
       "2021-01-03": 529
     }
