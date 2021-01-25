@@ -24,9 +24,9 @@
     "url": "https://hepic.tel",
     "icon": "https://favicons.githubusercontent.com/hepic.tel",
     "slug": "hepic-tel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 325,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 0
+    }
   },
   {
     "name": "SIPCAPTURE.ORG",
@@ -103,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-7",
     "status": "up",
-    "uptime": "77.69%",
+    "uptime": "78.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.69%",
-    "uptimeYear": "77.69%",
+    "uptimeMonth": "78.22%",
+    "uptimeYear": "78.22%",
     "time": 315,
     "timeDay": 331,
     "timeWeek": 302,
