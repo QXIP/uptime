@@ -105,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-7",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.59%",
-    "uptimeYear": "84.77%",
+    "uptimeMonth": "86.22%",
+    "uptimeYear": "84.86%",
     "time": 317,
     "timeDay": 289,
     "timeWeek": 309,
@@ -129,9 +129,9 @@
     "url": "$DEV9",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -140,6 +140,8 @@
     "timeWeek": 315,
     "timeMonth": 322,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   }
 ]
