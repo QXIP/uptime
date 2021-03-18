@@ -1,7 +1,7 @@
 url: https://sipcapture.org  
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-03-18T20:54:42.680Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2021-03-18T21:05:56.042Z
 startTime: Sun Jan 03 2021 15:00:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
