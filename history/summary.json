@@ -87,9 +87,9 @@
     "url": "$DEV3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
@@ -99,6 +99,7 @@
     "timeMonth": 313,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2021-03-23": 0,
       "2021-03-03": 24,
       "2021-01-05": 100
     }
