@@ -14,8 +14,6 @@ sites:
     url: https://helpdesk.qxip.net/
   - name: DEV3
     url: $DEV3
-  - name: DEV7
-    url: $DEV7
   - name: DEV9
     url: $DEV9
 
