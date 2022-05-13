@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 430,
-    "timeWeek": 346,
-    "timeMonth": 351,
-    "timeYear": 437,
+    "time": 502,
+    "timeDay": 349,
+    "timeWeek": 364,
+    "timeMonth": 348,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2021-09-17": 24,
       "2021-06-21": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 278,
-    "timeWeek": 288,
-    "timeMonth": 334,
-    "timeYear": 380,
+    "time": 398,
+    "timeDay": 433,
+    "timeWeek": 312,
+    "timeMonth": 332,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   },
   {
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1019,
-    "timeDay": 1053,
-    "timeWeek": 1031,
-    "timeMonth": 1054,
-    "timeYear": 1064,
+    "timeDay": 801,
+    "timeWeek": 1053,
+    "timeMonth": 1043,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2021-05-25": 41
     }
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 391,
-    "timeWeek": 437,
-    "timeMonth": 467,
+    "timeDay": 577,
+    "timeWeek": 446,
+    "timeMonth": 477,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2022-01-02": 27
@@ -84,15 +84,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-3",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 488,
-    "timeWeek": 542,
-    "timeMonth": 636,
+    "timeDay": 545,
+    "timeWeek": 540,
+    "timeMonth": 631,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2021-11-04": 25
@@ -110,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 384,
-    "timeDay": 337,
-    "timeWeek": 312,
+    "timeDay": 320,
+    "timeWeek": 326,
     "timeMonth": 333,
     "timeYear": 390,
     "dailyMinutesDown": {
