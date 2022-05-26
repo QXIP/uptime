@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 494,
-    "timeDay": 453,
-    "timeWeek": 389,
-    "timeMonth": 358,
-    "timeYear": 431,
+    "time": 493,
+    "timeDay": 286,
+    "timeWeek": 372,
+    "timeMonth": 355,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2021-09-17": 24,
       "2021-06-21": 16
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 529,
-    "timeWeek": 421,
-    "timeMonth": 341,
-    "timeYear": 379,
+    "timeDay": 427,
+    "timeWeek": 402,
+    "timeMonth": 338,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -48,12 +48,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1022,
-    "timeDay": 1078,
-    "timeWeek": 1002,
-    "timeMonth": 1024,
-    "timeYear": 1056,
+    "timeDay": 788,
+    "timeWeek": 919,
+    "timeMonth": 1008,
+    "timeYear": 1055,
     "dailyMinutesDown": {}
   },
   {
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 573,
-    "timeDay": 492,
-    "timeWeek": 518,
-    "timeMonth": 491,
+    "timeDay": 522,
+    "timeWeek": 508,
+    "timeMonth": 492,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2022-01-02": 27
@@ -88,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
-    "timeDay": 784,
-    "timeWeek": 667,
-    "timeMonth": 635,
-    "timeYear": 621,
+    "timeDay": 610,
+    "timeWeek": 632,
+    "timeMonth": 634,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2021-11-04": 25
     }
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 385,
-    "timeDay": 416,
-    "timeWeek": 322,
-    "timeMonth": 316,
+    "timeDay": 243,
+    "timeWeek": 303,
+    "timeMonth": 313,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2022-03-09": 15,
