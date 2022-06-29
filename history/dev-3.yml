@@ -1,7 +1,7 @@
 url: $DEV3  
-status: down
-code: 403
-responseTime: 53
-lastUpdated: 2022-06-29T09:22:13.616Z
+status: up
+code: 200
+responseTime: 648
+lastUpdated: 2022-06-29T09:40:14.081Z
 startTime: Sun Jan 03 2021 15:11:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
