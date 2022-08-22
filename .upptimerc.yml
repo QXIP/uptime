@@ -16,6 +16,8 @@ sites:
     url: $DEV3
   - name: DEV9
     url: $DEV9
+  - name: qryn
+    url: https://qryn.metrico.in
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
