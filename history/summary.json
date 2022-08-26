@@ -175,22 +175,22 @@
   },
   {
     "name": "QRYN.DEMO",
-    "url": "https://cloki.glitch.me",
-    "icon": "https://favicons.githubusercontent.com/cloki.glitch.me",
+    "url": "https://qryn.glitch.me",
+    "icon": "https://favicons.githubusercontent.com/qryn.glitch.me",
     "slug": "qryn-demo",
-    "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "93.61%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "98.14%",
-    "time": 258,
-    "timeDay": 154,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "91.00%",
+    "uptimeDay": "66.41%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "91.00%",
+    "time": 280,
+    "timeDay": 247,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-08-26": 92
+      "2022-08-26": 484
     }
   }
 ]
