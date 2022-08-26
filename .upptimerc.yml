@@ -21,7 +21,7 @@ sites:
   - name: URLENG.COM
     url: https://urleng.com
   - name: QRYN.DEMO
-    url: https://cloki.glitch.me
+    url: https://qryn.glitch.me
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
