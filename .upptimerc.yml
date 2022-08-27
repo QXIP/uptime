@@ -45,8 +45,6 @@ status-website:
       href: https://github.com/qxip
     - title: SIPCAPTURE
       href: https://github.com/sipcapture
-    - title: METRICO
-      href: https://metrico.in
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
