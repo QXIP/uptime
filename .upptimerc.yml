@@ -40,7 +40,7 @@ status-website:
   introMessage: Having issues with an unlisted QXIP service? Please open a support ticket.
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: QXIP
       href: https://github.com/qxip
     - title: SIPCAPTURE
