@@ -216,19 +216,19 @@
     "url": "https://oss-demo.qryn.dev",
     "icon": "https://favicons.githubusercontent.com/oss-demo.qryn.dev",
     "slug": "qryn-oss-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 153,
-    "timeWeek": 243,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 248,
+    "timeDay": 194,
+    "timeWeek": 242,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2022-09-27": 1
+      "2022-09-27": 35
     }
   },
   {
