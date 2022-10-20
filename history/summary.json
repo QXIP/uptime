@@ -203,9 +203,9 @@
     "url": "https://y3kp3s.deta.dev",
     "icon": "https://favicons.githubusercontent.com/y3kp3s.deta.dev",
     "slug": "deta-watcher",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,7 +214,9 @@
     "timeWeek": 564,
     "timeMonth": 572,
     "timeYear": 582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "QRYN-OSS-DEMO",
