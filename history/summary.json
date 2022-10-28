@@ -206,10 +206,10 @@
     "url": "https://y3kp3s.deta.dev",
     "icon": "https://favicons.githubusercontent.com/y3kp3s.deta.dev",
     "slug": "deta-watcher",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 607,
@@ -218,6 +218,7 @@
     "timeMonth": 630,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2022-10-28": 1,
       "2022-10-20": 20
     }
   },
