@@ -250,9 +250,9 @@
     "url": "https://cloud-demo.qryn.dev",
     "icon": "https://favicons.githubusercontent.com/cloud-demo.qryn.dev",
     "slug": "qryn-cloud-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -261,6 +261,8 @@
     "timeWeek": 869,
     "timeMonth": 826,
     "timeYear": 813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-13": 0
+    }
   }
 ]
