@@ -181,7 +181,7 @@
     "slug": "qryn-demo",
     "status": "up",
     "uptime": "97.18%",
-    "uptimeDay": "74.08%",
+    "uptimeDay": "76.25%",
     "uptimeWeek": "77.09%",
     "uptimeMonth": "93.04%",
     "uptimeYear": "97.18%",
@@ -257,19 +257,19 @@
     "url": "https://cloud-demo.qryn.dev",
     "icon": "https://favicons.githubusercontent.com/cloud-demo.qryn.dev",
     "slug": "qryn-cloud-demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 587,
-    "timeWeek": 793,
-    "timeMonth": 880,
-    "timeYear": 835,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 834,
+    "timeDay": 610,
+    "timeWeek": 777,
+    "timeMonth": 874,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2022-11-29": 0
+      "2022-11-29": 31
     }
   }
 ]
