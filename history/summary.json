@@ -143,9 +143,9 @@
     "url": "https://qryn.metrico.in",
     "icon": "https://favicons.githubusercontent.com/qryn.metrico.in",
     "slug": "qryn-metrico-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,7 +154,9 @@
     "timeWeek": 117,
     "timeMonth": 123,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-10": 0
+    }
   },
   {
     "name": "URLENG.COM",
@@ -180,15 +182,15 @@
     "icon": "https://favicons.githubusercontent.com/qryn.glitch.me",
     "slug": "qryn-demo",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "97.44%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "97.45%",
     "time": 480,
     "timeDay": 166,
     "timeWeek": 209,
-    "timeMonth": 1010,
+    "timeMonth": 1028,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2022-12-01": 17,
