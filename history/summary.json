@@ -53,9 +53,9 @@
     "url": "https://sipcapture.org",
     "icon": "https://favicons.githubusercontent.com/sipcapture.org",
     "slug": "sipcapture-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -65,6 +65,7 @@
     "timeMonth": 973,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2022-12-27": 0,
       "2022-11-08": 33,
       "2022-07-05": 46
     }
@@ -98,10 +99,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-3",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 664,
     "timeDay": 561,
@@ -109,7 +110,6 @@
     "timeMonth": 564,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-12-27": 10,
       "2022-07-01": 82,
       "2022-06-30": 70,
       "2022-06-29": 34
@@ -186,7 +186,7 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "96.13%",
+    "uptimeMonth": "96.67%",
     "uptimeYear": "97.77%",
     "time": 442,
     "timeDay": 110,
