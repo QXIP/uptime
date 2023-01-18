@@ -135,8 +135,7 @@
       "2022-07-20": 26,
       "2022-03-09": 15,
       "2022-02-08": 639,
-      "2022-02-07": 397,
-      "2022-01-18": 21
+      "2022-02-07": 397
     }
   },
   {
@@ -181,18 +180,17 @@
     "icon": "https://favicons.githubusercontent.com/qryn.glitch.me",
     "slug": "qryn-demo",
     "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "98.08%",
+    "uptime": "98.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.09%",
     "time": 695,
     "timeDay": 332,
     "timeWeek": 307,
     "timeMonth": 1638,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2023-01-17": 11,
       "2022-12-26": 18,
       "2022-12-23": 17,
       "2022-12-21": 16,
