@@ -149,19 +149,19 @@
     "url": "https://qryn.metrico.in",
     "icon": "https://favicons.githubusercontent.com/qryn.metrico.in",
     "slug": "qryn-metrico-in",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 54,
-    "timeWeek": 114,
-    "timeMonth": 130,
-    "timeYear": 135,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 134,
+    "timeDay": 57,
+    "timeWeek": 107,
+    "timeMonth": 128,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-02": 18
     }
   },
   {
