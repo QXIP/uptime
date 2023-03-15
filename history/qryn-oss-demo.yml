@@ -1,7 +1,7 @@
 url: https://oss-demo.qryn.dev  
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2023-03-14T23:13:12.912Z
+status: down
+code: 530
+responseTime: 112
+lastUpdated: 2023-03-15T16:01:57.393Z
 startTime: Sat Aug 27 2022 19:28:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
