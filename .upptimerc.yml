@@ -20,8 +20,6 @@ sites:
     url: https://qryn.metrico.in
   - name: URLENG.COM
     url: https://urleng.com
-  - name: QRYN.DEMO
-    url: https://qryn.glitch.me
   - name: DETA-WATCHER
     url: https://y3kp3s.deta.dev
   - name: QRYN-OSS-DEMO
