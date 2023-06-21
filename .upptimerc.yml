@@ -24,7 +24,7 @@ sites:
     url: https://oss-demo.qryn.dev
   - name: QRYN-CLOUD-DEMO
     url: https://cloud-demo.qryn.dev
-
+ 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
